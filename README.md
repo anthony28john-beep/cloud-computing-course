@@ -16,11 +16,11 @@ This repo serves as my organized workspace for all course requirements, includin
 
 # 👤 Student Information
 
-- Name:[Anthony John M. Trinidad](https://www.facebook.com/anthony.john.melano.trinidad.2025)
+- Name: [Anthony John M. Trinidad](https://www.facebook.com/anthony.john.melano.trinidad.2025)
 
 - Course/Section: BSIT 4 J
 
-- Instructor: Jenkielyn Cortez Torres
+- Instructor: [Jenkielyn Cortez Torres](https://www.facebook.com/Jenkielyn.Torres1128)
 
 - School Year: [2026-2027]
 
